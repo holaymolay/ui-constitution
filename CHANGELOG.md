@@ -1,0 +1,7 @@
+# Changelog
+
+Entries use ISO8601 timestamps and newest entries appear first.
+
+## 2025-12-26T08:28:36+00:00
+- Bootstrapped governance framework, added run record tooling and stack profile, updated wiki navigation, and captured workflow snapshot rev_001_current.
+- Authored Visual Constitution v0.1.0 schemas/docs and generated README from README_SPEC.yaml. (Spec: 85a44460-bd37-40d4-89e2-7f2d750ab755; Ledger: 2025-12-26T00:14:33-08:00 — visual-constitution)

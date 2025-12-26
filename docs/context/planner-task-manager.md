@@ -1,0 +1,10 @@
+# Planner / Task Manager Ledger
+
+## 2025-12-26T00:14:33-08:00 — visual-constitution
+- Summary: Implement governance bootstrap and Visual Constitution v0.1.0 schemas/docs.
+- Details:
+  - Spec ID: 85a44460-bd37-40d4-89e2-7f2d750ab755.
+  - Scope: governance scaffolding + constitution schema set + docs/examples + release tag.
+- Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
+- Pending Actions: Complete schema set, docs, governance logs, run record, and tag v0.1.0.
+- Status: completed

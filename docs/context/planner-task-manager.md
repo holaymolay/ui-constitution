@@ -17,3 +17,13 @@
 - Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
 - Pending Actions: Remove inbox item after promotion.
 - Status: completed
+
+## 2025-12-26T01:00:00-08:00 — repo-push
+- Summary: Create GitHub repository and push commits/tag v0.1.0.
+- Details:
+  - Spec ID: 85a44460-bd37-40d4-89e2-7f2d750ab755.
+  - Actions: gh repo create ui-constitution (origin), git push with tags, clear todo.
+  - Remote: https://github.com/holaymolay/ui-constitution (private by default).
+- Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
+- Pending Actions: None.
+- Status: completed

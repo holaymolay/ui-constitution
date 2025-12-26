@@ -8,7 +8,6 @@
 
 ## Current Focus (highest priority)
 - Bullet list of immediate tasks for the feature currently being developed/debugged.
-- next you need to create a github repostiory and push the initial commit
 ## Next Features & Updates
 - Bullet list of upcoming feature ideas and near-term improvements.
 

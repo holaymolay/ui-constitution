@@ -1,7 +1,7 @@
 # Handover
 
 ## Current Focus
-- None (task complete).
+- None (task complete; new todo queued in todo.md Current Focus).
 
 ## State Snapshot
 - Spec: 85a44460-bd37-40d4-89e2-7f2d750ab755 (visual-constitution-v0.1.0).
@@ -16,6 +16,7 @@
 ## Next Steps
 - Configure a git remote and push commits/tags.
 - Optional: add CI schema validation once tooling is selected.
+- Action todo.md Current Focus: create GitHub repository and push initial commit to remote.
 
 ## Pending Items
 - None.

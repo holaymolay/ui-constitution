@@ -8,3 +8,12 @@
 - Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
 - Pending Actions: Complete schema set, docs, governance logs, run record, and tag v0.1.0.
 - Status: completed
+
+## 2025-12-26T00:49:34-08:00 — governance-todos
+- Summary: Sweep todo-inbox and promote tasks into todo.md.
+- Details:
+  - Spec ID: 85a44460-bd37-40d4-89e2-7f2d750ab755 (tracking operational updates).
+  - Task: Move “create GitHub repository and push the initial commit” into todo queue with imperative wording.
+- Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
+- Pending Actions: Remove inbox item after promotion.
+- Status: completed

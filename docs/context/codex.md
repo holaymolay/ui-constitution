@@ -28,3 +28,13 @@
 - Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
 - Pending Actions: None.
 - Status: completed.
+
+## 2025-12-26T00:55:56-08:00 — repo-visibility
+- Summary: Change repo visibility to public.
+- Details:
+  - Spec ID: 85a44460-bd37-40d4-89e2-7f2d750ab755.
+  - Action: gh repo edit ui-constitution --visibility public --accept-visibility-change-consequences.
+  - Outcome: Visibility now PUBLIC (verified via gh repo view).
+- Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
+- Pending Actions: None.
+- Status: completed.

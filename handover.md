@@ -13,6 +13,7 @@
 - Bootstrapped governance framework, added run record tooling, updated wiki navigation + spec-only stack profile.
 - Authored Visual Constitution schemas and docs; generated README from README_SPEC.yaml.
 - Created GitHub repo `holaymolay/ui-constitution`, pushed commits and tag v0.1.0.
+- Changed repository visibility to PUBLIC.
 
 ## Next Steps
 - Optional: add CI schema validation once tooling is selected.

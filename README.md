@@ -1,4 +1,6 @@
-# ui-constitution
+# CEF UI Constitution
+Part of the Context Engineering Framework (CEF). Umbrella repo: [context-engineering-framework](https://github.com/holaymolay/cef-governance-orchestrator).
+
 
 ## Why This Exists
 

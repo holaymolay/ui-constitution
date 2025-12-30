@@ -1,4 +1,4 @@
-project_name: "ui-constitution"
+project_name: "cef-ui-constitution"
 one_sentence_value_prop: "Machine-readable Visual Constitution that defines enforceable constraints for LLM-generated UI systems."
 audience:
   include:

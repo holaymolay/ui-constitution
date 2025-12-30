@@ -35,7 +35,7 @@ Input/Output Schemas:
 - Domain schema references: constitution/typography.schema.json, constitution/spacing.schema.json, constitution/color.schema.json, constitution/elevation.schema.json, constitution/radius.schema.json, constitution/motion.schema.json, constitution/assets.schema.json.
 
 Clarifications (optional):
-- Q: Which repo name should be used? A: ui-constitution (per workspace path).
+- Q: Which repo name should be used? A: cef-ui-constitution (per workspace path).
 - Q: Which schema format? A: JSON Schema draft 2020-12.
 
 Validation Criteria:

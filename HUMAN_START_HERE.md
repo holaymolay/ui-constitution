@@ -1,5 +1,8 @@
 # Human Start Here
 
+**Hub entry:** Load CERES via the umbrella `PROMPTLOADER.md` + `CONSTITUTION.md` (hub repo) and use hub todo templates/init script when bootstrapping; this component stays independent and is pulled via hub clone/run scripts.
+
+
 This repository is the CERES UI Constitution subcomponent.
 It is AI-operated: humans provide goals and decisions; the agent runs scripts and updates AI-managed files.
 

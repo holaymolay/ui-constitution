@@ -1,3 +1,6 @@
+**Hub entry:** Load CERES via the umbrella `PROMPTLOADER.md` + `CONSTITUTION.md` (hub repo) and use hub todo templates/init script when bootstrapping; this component stays independent and is pulled via hub clone/run scripts.
+
+
 Use `docs/wiki/index.md` strictly as a navigation layer; it summarizes (never overrides) the authoritative specs, Skills, Concepts, and Synchronizations defined in this file.
 
 # Repository Guidelines

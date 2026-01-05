@@ -68,3 +68,5 @@ Hard constraints:
 - Max length: 5200 chars
 - Banned terms: None
 - Tone profile: neutral
+## Observability (local)
+- Use  to emit stage events via hub .

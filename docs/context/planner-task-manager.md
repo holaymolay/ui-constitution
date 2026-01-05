@@ -22,8 +22,8 @@
 - Summary: Create GitHub repository and push commits/tag v0.1.0.
 - Details:
   - Spec ID: 85a44460-bd37-40d4-89e2-7f2d750ab755.
-  - Actions: gh repo create cef-ui-constitution (origin), git push with tags, clear todo.
-  - Remote: https://github.com/holaymolay/cef-ui-constitution (private by default).
+  - Actions: gh repo create ui-constitution (origin), git push with tags, clear todo.
+  - Remote: https://github.com/holaymolay/ui-constitution (private by default).
 - Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
 - Pending Actions: None.
 - Status: completed
@@ -32,7 +32,7 @@
 - Summary: Switch GitHub repository visibility to public.
 - Details:
   - Spec ID: 85a44460-bd37-40d4-89e2-7f2d750ab755.
-  - Action: gh repo edit cef-ui-constitution --visibility public --accept-visibility-change-consequences.
+  - Action: gh repo edit ui-constitution --visibility public --accept-visibility-change-consequences.
   - Rationale: Repo should be public per request.
   - Result: Visibility set to PUBLIC (gh repo view verified).
 - Related Spec / Skill: 85a44460-bd37-40d4-89e2-7f2d750ab755 / none.
